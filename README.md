@@ -1,2 +1,2 @@
 # Fordham_Big_data
-Miscellaneus use for Big Data classes at Fordham
+Group Project on Happiness factors correlation with development indicators and overall wellness of citizens in a country
